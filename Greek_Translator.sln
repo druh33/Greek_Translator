@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{61AFB380-BC66-457B-8A25-AD3C146959C8}"
+	ProjectSection(SolutionItems) = preProject
+		CelsiusConverterGUI.java = CelsiusConverterGUI.java
+		dictionary.csv = dictionary.csv
+		EnglishToGreekTranslator.js = EnglishToGreekTranslator.js
+		GridBag.js = GridBag.js
+		GuiTrial.js = GuiTrial.js
+		MixedBox.js = MixedBox.js
+		Translator.java = Translator.java
+		TranslatorBox.js = TranslatorBox.js
+		Translatordev.js = Translatordev.js
+		TranslatorGUI.java = TranslatorGUI.java
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEF16965-C6FD-4DE3-83E6-63C9667930D7}
+	EndGlobalSection
+EndGlobal
